@@ -1,0 +1,14 @@
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\bin\Debug\19015385_Prog6211_Task2.exe.config
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\bin\Debug\19015385_Prog6211_Task2.exe
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\bin\Debug\19015385_Prog6211_Task2.pdb
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\_19015385_Prog6211_Task2.Login.resources
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\_19015385_Prog6211_Task2.Properties.Resources.resources
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\_19015385_Prog6211_Task1.WeatherApp.resources
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\19015385_Prog6211_Task2.csproj.GenerateResource.cache
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\19015385_Prog6211_Task2.csproj.CoreCompileInputs.cache
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\19015385_Prog6211_Task2.exe
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\19015385_Prog6211_Task2.pdb
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\19015385_Prog6211_Task2.csprojAssemblyReference.cache
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\_19015385_Prog6211_Task2.Register.resources
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\_19015385_Prog6211_Task2.editforecasts.resources
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task2\19015385_Prog6211_Task2\19015385_Prog6211_Task2\obj\Debug\_19015385_Prog6211_Task2.WeatherAppGeneralUser.resources

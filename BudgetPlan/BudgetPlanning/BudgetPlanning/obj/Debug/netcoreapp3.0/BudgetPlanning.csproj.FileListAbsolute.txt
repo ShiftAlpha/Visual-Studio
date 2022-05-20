@@ -1,0 +1,11 @@
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\bin\Debug\netcoreapp3.0\BudgetPlanning.exe
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\bin\Debug\netcoreapp3.0\BudgetPlanning.deps.json
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\bin\Debug\netcoreapp3.0\BudgetPlanning.runtimeconfig.json
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\bin\Debug\netcoreapp3.0\BudgetPlanning.runtimeconfig.dev.json
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\bin\Debug\netcoreapp3.0\BudgetPlanning.dll
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\bin\Debug\netcoreapp3.0\BudgetPlanning.pdb
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\obj\Debug\netcoreapp3.0\BudgetPlanning.AssemblyInfoInputs.cache
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\obj\Debug\netcoreapp3.0\BudgetPlanning.AssemblyInfo.cs
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\obj\Debug\netcoreapp3.0\BudgetPlanning.dll
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\obj\Debug\netcoreapp3.0\BudgetPlanning.pdb
+C:\Users\bhavi\Desktop\BudgetPlan\BudgetPlanning\BudgetPlanning\obj\Debug\netcoreapp3.0\BudgetPlanning.csprojAssemblyReference.cache

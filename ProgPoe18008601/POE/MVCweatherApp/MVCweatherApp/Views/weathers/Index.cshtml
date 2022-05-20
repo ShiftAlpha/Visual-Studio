@@ -1,0 +1,69 @@
+﻿@model IEnumerable<MVCweatherApp.Models.weather>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Dates)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MinTemp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MaxTemp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prec)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WindS)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City.City_name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dates)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MinTemp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MaxTemp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Prec)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hum)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WindS)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.City.City_name)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Weather_ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Weather_ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Weather_ID })
+        </td>
+    </tr>
+}
+
+</table>

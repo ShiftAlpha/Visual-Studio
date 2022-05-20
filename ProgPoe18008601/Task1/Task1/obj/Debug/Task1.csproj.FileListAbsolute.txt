@@ -1,0 +1,22 @@
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\kreas\OneDrive\Desktop\prog 2a\Task1\Task1\obj\Debug\Task1.ReportType1.resources
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\obj\Debug\Task1.report.resources
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\obj\Debug\Task1.ReportType1.resources
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\ranad\source\repos\ProgPoe18008601\Task1\Task1\obj\Debug\Task1.pdb

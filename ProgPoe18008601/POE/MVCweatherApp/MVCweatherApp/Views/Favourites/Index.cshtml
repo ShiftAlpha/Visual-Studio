@@ -1,0 +1,41 @@
+﻿@model IEnumerable<MVCweatherApp.Models.Favourite>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Favourite City</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.City.City_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.Username)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        if (item.User.Username.Equals("general"))
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.City.City_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.Username)
+                </td>
+                <td>
+                    @Html.ActionLink("Details", "Details", new { id = item.Fav_ID })
+                </td>
+            </tr>
+
+        }
+    }
+</table>
+

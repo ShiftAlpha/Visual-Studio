@@ -1,0 +1,3 @@
+C:\Users\ranad\source\repos\ExpLibrary\obj\Debug\netcoreapp3.1\ExpLibrary.csprojAssemblyReference.cache
+C:\Users\ranad\source\repos\ExpLibrary\obj\Debug\netcoreapp3.1\ExpLibrary.AssemblyInfoInputs.cache
+C:\Users\ranad\source\repos\ExpLibrary\obj\Debug\netcoreapp3.1\ExpLibrary.AssemblyInfo.cs

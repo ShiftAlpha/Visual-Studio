@@ -1,0 +1,10 @@
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task1\19015385_Prog6211_Task1\bin\Debug\19015385_Prog6211_Task1.exe.config
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task1\19015385_Prog6211_Task1\bin\Debug\19015385_Prog6211_Task1.exe
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task1\19015385_Prog6211_Task1\bin\Debug\19015385_Prog6211_Task1.pdb
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task1\19015385_Prog6211_Task1\obj\Debug\19015385_Prog6211_Task1.csprojAssemblyReference.cache
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task1\19015385_Prog6211_Task1\obj\Debug\_19015385_Prog6211_Task1.WeatherApp.resources
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task1\19015385_Prog6211_Task1\obj\Debug\_19015385_Prog6211_Task1.Properties.Resources.resources
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task1\19015385_Prog6211_Task1\obj\Debug\19015385_Prog6211_Task1.csproj.GenerateResource.cache
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task1\19015385_Prog6211_Task1\obj\Debug\19015385_Prog6211_Task1.csproj.CoreCompileInputs.cache
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task1\19015385_Prog6211_Task1\obj\Debug\19015385_Prog6211_Task1.exe
+C:\Users\zafar\Desktop\College\Prog2020\POE\19015385_Prog6211_Task1\19015385_Prog6211_Task1\obj\Debug\19015385_Prog6211_Task1.pdb

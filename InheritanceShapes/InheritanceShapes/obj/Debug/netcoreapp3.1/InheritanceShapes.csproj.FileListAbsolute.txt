@@ -1,0 +1,13 @@
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\bin\Debug\netcoreapp3.1\InheritanceShapes.exe
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\bin\Debug\netcoreapp3.1\InheritanceShapes.deps.json
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\bin\Debug\netcoreapp3.1\InheritanceShapes.runtimeconfig.json
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\bin\Debug\netcoreapp3.1\InheritanceShapes.runtimeconfig.dev.json
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\bin\Debug\netcoreapp3.1\InheritanceShapes.dll
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\bin\Debug\netcoreapp3.1\InheritanceShapes.pdb
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\obj\Debug\netcoreapp3.1\InheritanceShapes.csprojAssemblyReference.cache
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\obj\Debug\netcoreapp3.1\InheritanceShapes.csproj.CoreCompileInputs.cache
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\obj\Debug\netcoreapp3.1\InheritanceShapes.AssemblyInfoInputs.cache
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\obj\Debug\netcoreapp3.1\InheritanceShapes.AssemblyInfo.cs
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\obj\Debug\netcoreapp3.1\InheritanceShapes.dll
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\obj\Debug\netcoreapp3.1\InheritanceShapes.pdb
+C:\Users\ferra\Source\Repos\InheritanceShapes\InheritanceShapes\obj\Debug\netcoreapp3.1\InheritanceShapes.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\ranad\source\repos\16012775_ICE2_PROG\bin\Debug\16012775_ICE2_PROG.exe.config
+C:\Users\ranad\source\repos\16012775_ICE2_PROG\bin\Debug\16012775_ICE2_PROG.exe
+C:\Users\ranad\source\repos\16012775_ICE2_PROG\bin\Debug\16012775_ICE2_PROG.pdb
+C:\Users\ranad\source\repos\16012775_ICE2_PROG\obj\Debug\16012775_ICE2_PROG.csprojAssemblyReference.cache
+C:\Users\ranad\source\repos\16012775_ICE2_PROG\obj\Debug\16012775_ICE2_PROG.exe
+C:\Users\ranad\source\repos\16012775_ICE2_PROG\obj\Debug\16012775_ICE2_PROG.pdb

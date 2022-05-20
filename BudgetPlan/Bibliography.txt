@@ -1,0 +1,7 @@
+1. W3schools.com. 2021. C# Constructors. [online] Available at: <https://www.w3schools.com/cs/cs_constructors.asp> [Accessed 19 April 2021].
+
+2. W3schools.com. 2021. C# Properties (Get and Set). [online] Available at: <https://www.w3schools.com/cs/cs_properties.asp> [Accessed 19 April 2021].
+
+3. W3schools.com. 2021. C# Classes and Objects. [online] Available at: <https://www.w3schools.com/cs/cs_classes.asp> [Accessed 19 April 2021].
+
+4. W3schools.com. 2021. C# Variables. [online] Available at: <https://www.w3schools.com/cs/cs_variables.asp> [Accessed 19 April 2021].

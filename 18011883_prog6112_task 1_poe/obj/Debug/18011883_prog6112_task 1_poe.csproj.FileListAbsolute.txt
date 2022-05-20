@@ -1,0 +1,11 @@
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\bin\Debug\18011883_prog6112_task 1_poe.exe.config
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\bin\Debug\18011883_prog6112_task 1_poe.exe
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\bin\Debug\18011883_prog6112_task 1_poe.pdb
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\obj\Debug\18011883_prog6112_task 1_poe.csprojAssemblyReference.cache
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\obj\Debug\_18011883_prog6112_task_1_poe.Form1.resources
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\obj\Debug\_18011883_prog6112_task_1_poe.CreateForecast.resources
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\obj\Debug\_18011883_prog6112_task_1_poe.SingleCityForm.resources
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\obj\Debug\_18011883_prog6112_task_1_poe.Properties.Resources.resources
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\obj\Debug\18011883_prog6112_task 1_poe.csproj.GenerateResource.cache
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\obj\Debug\18011883_prog6112_task 1_poe.exe
+C:\Users\ranad\source\repos\18011883_prog6112_task 1_poe\obj\Debug\18011883_prog6112_task 1_poe.pdb

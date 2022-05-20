@@ -1,0 +1,5 @@
+To Run Program:
+
+1) Please Open The BudgetPlanning Folder
+2) There will be another "BudgetPlanning" Folder, Please Open This
+3) Run The "BudgetPlanning" Icon Visual C# Project

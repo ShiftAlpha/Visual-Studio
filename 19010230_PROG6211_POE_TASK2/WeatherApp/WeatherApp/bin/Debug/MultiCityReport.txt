@@ -1,0 +1,70 @@
+Forecast Report:
+
+
+
+City/Cities: JOHANNESBURG, CAPE TOWN
+Start Date:    15/03/2020
+End Date:      17/03/2020
+City                Date                Minimum Temperature (°C)      Maximum Temperature (°C)      Preciptation (%)              Humidity (%)                  Windspeed (Km/h)              
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+CAPE TOWN           15/03/2020          10                            29                            0                             43                            5                             
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+CAPE TOWN           16/03/2020          12                            19                            60                            83                            8                             
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+CAPE TOWN           17/03/2020          17                            26                            5                             78                            13                            
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+JOHANNESBURG        15/03/2020          10                            29                            0                             43                            19                            
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+JOHANNESBURG        16/03/2020          15                            22                            20                            53                            4                             
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+JOHANNESBURG        17/03/2020          13                            26                            3                             50                            11                            
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+
+
+
+
+Records Report:
+
+
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Date: 15/03/2020 
+Record Minimum Temperature(°C):    10    => CAPE TOWN, JOHANNESBURG
+Record Maximum Temperature(°C):    29    => CAPE TOWN, JOHANNESBURG
+Record Precipitation(%):           0     => CAPE TOWN, JOHANNESBURG
+Record Humidity(%):                43    => CAPE TOWN, JOHANNESBURG
+Record Windspeed(Km/h):            19    => JOHANNESBURG
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Date: 16/03/2020 
+Record Minimum Temperature(°C):    12    => CAPE TOWN
+Record Maximum Temperature(°C):    22    => JOHANNESBURG
+Record Precipitation(%):           60    => CAPE TOWN
+Record Humidity(%):                83    => CAPE TOWN
+Record Windspeed(Km/h):            8     => CAPE TOWN
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Date: 17/03/2020 
+Record Minimum Temperature(°C):    13    => JOHANNESBURG
+Record Maximum Temperature(°C):    26    => CAPE TOWN, JOHANNESBURG
+Record Precipitation(%):           5     => CAPE TOWN
+Record Humidity(%):                78    => CAPE TOWN
+Record Windspeed(Km/h):            13    => CAPE TOWN
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+

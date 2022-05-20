@@ -1,0 +1,12 @@
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\obj\Debug\16012775_PROG6211_TASK1__POE.csprojAssemblyReference.cache
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\obj\Debug\_16012775_PROG6211_TASK1__POE.Form1.resources
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\obj\Debug\_16012775_PROG6211_TASK1__POE.Properties.Resources.resources
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\obj\Debug\16012775_PROG6211_TASK1__POE.csproj.GenerateResource.cache
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\bin\Debug\16012775_PROG6211_TASK1__POE.exe.config
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\bin\Debug\16012775_PROG6211_TASK1__POE.exe
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\bin\Debug\16012775_PROG6211_TASK1__POE.pdb
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\obj\Debug\16012775_PROG6211_TASK1__POE.exe
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\obj\Debug\16012775_PROG6211_TASK1__POE.pdb
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\obj\Debug\_16012775_PROG6211_TASK1__POE.createForecast.resources
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\obj\Debug\_16012775_PROG6211_TASK1__POE.singleCityForm.resources
+C:\Users\ranad\source\repos\16012775_PROG6211_TASK1__POE\obj\Debug\_16012775_PROG6211_TASK1__POE.viewSelectedForecast.resources

@@ -1,0 +1,9 @@
+C:\Users\ranad\source\repos\firstTask\firstTask\bin\Debug\firstTask.exe.config
+C:\Users\ranad\source\repos\firstTask\firstTask\bin\Debug\firstTask.exe
+C:\Users\ranad\source\repos\firstTask\firstTask\bin\Debug\firstTask.pdb
+C:\Users\ranad\source\repos\firstTask\firstTask\obj\Debug\firstTask.csprojAssemblyReference.cache
+C:\Users\ranad\source\repos\firstTask\firstTask\obj\Debug\firstTask.Form1.resources
+C:\Users\ranad\source\repos\firstTask\firstTask\obj\Debug\firstTask.Properties.Resources.resources
+C:\Users\ranad\source\repos\firstTask\firstTask\obj\Debug\firstTask.csproj.GenerateResource.cache
+C:\Users\ranad\source\repos\firstTask\firstTask\obj\Debug\firstTask.exe
+C:\Users\ranad\source\repos\firstTask\firstTask\obj\Debug\firstTask.pdb

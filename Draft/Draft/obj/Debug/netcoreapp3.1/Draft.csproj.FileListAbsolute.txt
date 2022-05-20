@@ -1,0 +1,11 @@
+C:\Users\ranad\source\repos\Draft\Draft\bin\Debug\netcoreapp3.1\Draft.exe
+C:\Users\ranad\source\repos\Draft\Draft\bin\Debug\netcoreapp3.1\Draft.deps.json
+C:\Users\ranad\source\repos\Draft\Draft\bin\Debug\netcoreapp3.1\Draft.runtimeconfig.json
+C:\Users\ranad\source\repos\Draft\Draft\bin\Debug\netcoreapp3.1\Draft.runtimeconfig.dev.json
+C:\Users\ranad\source\repos\Draft\Draft\bin\Debug\netcoreapp3.1\Draft.dll
+C:\Users\ranad\source\repos\Draft\Draft\bin\Debug\netcoreapp3.1\Draft.pdb
+C:\Users\ranad\source\repos\Draft\Draft\obj\Debug\netcoreapp3.1\Draft.csprojAssemblyReference.cache
+C:\Users\ranad\source\repos\Draft\Draft\obj\Debug\netcoreapp3.1\Draft.AssemblyInfoInputs.cache
+C:\Users\ranad\source\repos\Draft\Draft\obj\Debug\netcoreapp3.1\Draft.AssemblyInfo.cs
+C:\Users\ranad\source\repos\Draft\Draft\obj\Debug\netcoreapp3.1\Draft.dll
+C:\Users\ranad\source\repos\Draft\Draft\obj\Debug\netcoreapp3.1\Draft.pdb

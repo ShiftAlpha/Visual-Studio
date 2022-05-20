@@ -1,0 +1,28 @@
+﻿@model MVCweatherApp.Models.Favourite
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details for favourite City</h2>
+
+<div>
+    
+    <hr />
+
+</div>
+
+@foreach (var item in Model.City.weathers)
+{<br /><br />
+    <strong>City</strong> @Html.DisplayFor(modelitem => item.City.City_name)<br />
+    <strong>Date</strong> @Html.DisplayFor(modelitem => item.Dates)<br />
+    <strong>Min temp</strong> @Html.DisplayFor(modelitem => item.MinTemp)<br />
+    <strong>Max Temp</strong> @Html.DisplayFor(modelitem => item.MaxTemp)<br />
+    <strong>Precipitation</strong> @Html.DisplayFor(modelitem => item.Prec)<br />
+    <strong>Humididty</strong> @Html.DisplayFor(modelitem => item.Hum)<br />
+    <strong>wind Speed</strong> @Html.DisplayFor(modelitem => item.WindS)<br />
+}
+<p>
+    @Html.ActionLink("Logout", "Login", new { id = Model.Fav_ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="weatherappModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="City">
+    <Key>
+      <PropertyRef Name="City_id" />
+    </Key>
+    <Property Name="City_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="City_name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Favourites" Relationship="Self.FK__Favourite__city___52593CB8" FromRole="City" ToRole="Favourite" />
+    <NavigationProperty Name="weathers" Relationship="Self.FK__weather__WindS__1273C1CD" FromRole="City" ToRole="weather" />
+  </EntityType>
+  <EntityType Name="Favourite">
+    <Key>
+      <PropertyRef Name="Fav_ID" />
+    </Key>
+    <Property Name="Fav_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_ID" Type="Int32" Nullable="false" />
+    <Property Name="city_id" Type="Int32" />
+    <NavigationProperty Name="City" Relationship="Self.FK__Favourite__city___52593CB8" FromRole="Favourite" ToRole="City" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Favourite__User___182C9B23" FromRole="Favourite" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="User_ID" />
+    </Key>
+    <Property Name="Username" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Passwords" Type="String" MaxLength="8" FixedLength="false" Unicode="false" />
+    <Property Name="User_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="user_type" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Favourites" Relationship="Self.FK__Favourite__User___182C9B23" FromRole="Users" ToRole="Favourite" />
+  </EntityType>
+  <EntityType Name="weather">
+    <Key>
+      <PropertyRef Name="Weather_ID" />
+    </Key>
+    <Property Name="Weather_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="City_id" Type="Int32" />
+    <Property Name="Dates" Type="DateTime" Precision="0" />
+    <Property Name="MinTemp" Type="Int32" />
+    <Property Name="MaxTemp" Type="Int32" />
+    <Property Name="Prec" Type="Int32" />
+    <Property Name="Hum" Type="Int32" />
+    <Property Name="WindS" Type="Int32" />
+    <NavigationProperty Name="City" Relationship="Self.FK__weather__WindS__1273C1CD" FromRole="weather" ToRole="City" />
+  </EntityType>
+  <EntityType Name="database_firewall_rules">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="name" />
+      <PropertyRef Name="start_ip_address" />
+      <PropertyRef Name="end_ip_address" />
+      <PropertyRef Name="create_date" />
+      <PropertyRef Name="modify_date" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="start_ip_address" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="end_ip_address" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="modify_date" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <Association Name="FK__Favourite__city___52593CB8">
+    <End Role="City" Type="Self.City" Multiplicity="0..1" />
+    <End Role="Favourite" Type="Self.Favourite" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="City">
+        <PropertyRef Name="City_id" />
+      </Principal>
+      <Dependent Role="Favourite">
+        <PropertyRef Name="city_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__weather__WindS__1273C1CD">
+    <End Role="City" Type="Self.City" Multiplicity="0..1" />
+    <End Role="weather" Type="Self.weather" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="City">
+        <PropertyRef Name="City_id" />
+      </Principal>
+      <Dependent Role="weather">
+        <PropertyRef Name="City_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Favourite__User___182C9B23">
+    <End Role="Users" Type="Self.User" Multiplicity="1" />
+    <End Role="Favourite" Type="Self.Favourite" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="User_ID" />
+      </Principal>
+      <Dependent Role="Favourite">
+        <PropertyRef Name="User_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="weatherappEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cities" EntityType="Self.City" />
+    <EntitySet Name="Favourites" EntityType="Self.Favourite" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <EntitySet Name="weathers" EntityType="Self.weather" />
+    <EntitySet Name="database_firewall_rules" EntityType="Self.database_firewall_rules" />
+    <AssociationSet Name="FK__Favourite__city___52593CB8" Association="Self.FK__Favourite__city___52593CB8">
+      <End Role="City" EntitySet="Cities" />
+      <End Role="Favourite" EntitySet="Favourites" />
+    </AssociationSet>
+    <AssociationSet Name="FK__weather__WindS__1273C1CD" Association="Self.FK__weather__WindS__1273C1CD">
+      <End Role="City" EntitySet="Cities" />
+      <End Role="weather" EntitySet="weathers" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Favourite__User___182C9B23" Association="Self.FK__Favourite__User___182C9B23">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Favourite" EntitySet="Favourites" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
